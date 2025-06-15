@@ -4,7 +4,7 @@
 [コンテストリンク](https://atcoder.jp/contests/abc409)
 
 ### コンテスト情報
-- コンテスト時間: [2025-06-07(土) 21:00](http://www.timeanddate.com/worldclock/fixedtime.html?iso=20250607T2100&p1=248) ~ [2025-06-07(土) 22:40](http://www.timeanddate.com/worldclock/fixedtime.html?iso=20250607T2240&p1=248) (100分)
+- コンテスト時間: 2025-06-07(土) 21:00 ~ 2025-06-07(土) 22:40 (100分)
 - レーティング更新対象: 0 - 1999
 
 ### 問題
