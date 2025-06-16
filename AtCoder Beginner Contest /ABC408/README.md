@@ -8,9 +8,9 @@
 - レーティング更新対象: 0 - 1999
 
 ### 問題
-- A - Timeout [🔗](https://atcoder.jp/contests/abc408/tasks/abc408_a) ([解決](./A%20-%20Timeout/))
-- B - Compression [🔗](https://atcoder.jp/contests/abc408/tasks/abc408_b) ([解決](./B%20-%20Compression/))
-- C - Not All Covered [🔗](https://atcoder.jp/contests/abc408/tasks/abc408_c) ([解決](./C%20-%20Not%20All%20Covered/))
+- A - Timeout [🔗](https://atcoder.jp/contests/abc408/tasks/abc408_a) ([25-06-15 解決](./A%20-%20Timeout/))
+- B - Compression [🔗](https://atcoder.jp/contests/abc408/tasks/abc408_b) ([25-06-15 解決](./B%20-%20Compression/))
+- C - Not All Covered [🔗](https://atcoder.jp/contests/abc408/tasks/abc408_c) ([25-06-16 解決](./C%20-%20Not%20All%20Covered/))
 - D - Flip to Gather [🔗](https://atcoder.jp/contests/abc408/tasks/abc408_d) (**未解決**)
 - E - Minimum OR Path [🔗](https://atcoder.jp/contests/abc408/tasks/abc408_e) (**未解決**)
 - F - Athletic [🔗](https://atcoder.jp/contests/abc408/tasks/abc408_f) (**未解決**)

@@ -8,8 +8,8 @@
 - レーティング更新対象: 0 - 1999
 
 ### 問題
-- A - Conflict [🔗](https://atcoder.jp/contests/abc409/tasks/abc409_a) ([解決](./A%20-%20Conflict/))
-- B - Citation [🔗](https://atcoder.jp/contests/abc409/tasks/abc409_b) ([解決](./B%20-%20Citation/))
+- A - Conflict [🔗](https://atcoder.jp/contests/abc409/tasks/abc409_a) ([25-06-13 解決](./A%20-%20Conflict/))
+- B - Citation [🔗](https://atcoder.jp/contests/abc409/tasks/abc409_b) ([25-06-13 解決](./B%20-%20Citation/))
 - C - Equilateral Triangle [🔗](https://atcoder.jp/contests/abc409/tasks/abc409_c) (**未解決**)
 - D - String Rotation [🔗](https://atcoder.jp/contests/abc409/tasks/abc409_d) (**未解決**)
 - E - Pair Annihilation [🔗](https://atcoder.jp/contests/abc409/tasks/abc409_e) (**未解決**)
