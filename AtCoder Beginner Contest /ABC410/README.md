@@ -10,7 +10,7 @@
 
 ### 問題
 - A - G1 [🔗](https://atcoder.jp/contests/abc410/tasks/abc410_a) ([25-06-16 解決](./A%20-%20G1/))
-- B - Reverse Proxy [🔗](https://atcoder.jp/contests/abc410/tasks/abc410_b) ([25-06-16解決](./B%20-%20Reverse%20Proxy/))
+- B - Reverse Proxy [🔗](https://atcoder.jp/contests/abc410/tasks/abc410_b) ([25-06-16 解決](./B%20-%20Reverse%20Proxy/))
 - C - Rotatable Array [🔗](https://atcoder.jp/contests/abc410/tasks/abc410_c) ([25-06-16 解決](./C%20-%20Rotatable%20Array/))
 - D - XOR Shortest Walk [🔗](https://atcoder.jp/contests/abc410/tasks/abc410_d) (**未解決**)
 - E - Battles in a Row [🔗](https://atcoder.jp/contests/abc410/tasks/abc410_e) (**未解決**)
